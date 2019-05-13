@@ -1,0 +1,16 @@
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\obj\Debug\Dedicated Server.csprojAssemblyReference.cache
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\obj\Debug\Dedicated Server.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\Dedicated Server.exe.config
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\Dedicated Server.exe
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\Dedicated Server.pdb
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\BasePacket.dll
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\ClientUDP.dll
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\ClientUpdaterPacketInfo.dll
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\Lidgren.Network.dll
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\BasePacket.pdb
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\ClientUDP.pdb
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\ClientUpdaterPacketInfo.pdb
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\bin\Debug\Lidgren.Network.pdb
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\obj\Debug\Dedicated Server.csproj.CopyComplete
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\obj\Debug\Dedicated Server.exe
+C:\Users\Duke\Documents\GitHub\File-Updater-Program-Client-Server\Dedicated Server\obj\Debug\Dedicated Server.pdb

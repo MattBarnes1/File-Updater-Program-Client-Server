@@ -1,0 +1,10 @@
+D:\SS13Repo\SS13\ClientCommunication\obj\Debug\ClientCommunication.csprojAssemblyReference.cache
+D:\SS13Repo\SS13\ClientCommunication\obj\Debug\ClientCommunication.csproj.CoreCompileInputs.cache
+D:\SS13Repo\SS13\ClientCommunication\bin\Debug\ClientCommunication.dll
+D:\SS13Repo\SS13\ClientCommunication\bin\Debug\ClientCommunication.pdb
+D:\SS13Repo\SS13\ClientCommunication\bin\Debug\Lidgren.Network.dll
+D:\SS13Repo\SS13\ClientCommunication\bin\Debug\UDPCSHandler.dll
+D:\SS13Repo\SS13\ClientCommunication\bin\Debug\UDPCSHandler.pdb
+D:\SS13Repo\SS13\ClientCommunication\obj\Debug\ClientCommunication.csproj.CopyComplete
+D:\SS13Repo\SS13\ClientCommunication\obj\Debug\ClientCommunication.dll
+D:\SS13Repo\SS13\ClientCommunication\obj\Debug\ClientCommunication.pdb

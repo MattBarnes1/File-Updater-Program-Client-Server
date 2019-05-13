@@ -1,0 +1,8 @@
+D:\SS13Repo\SS13\BasePacket\bin\Debug\BasePacket.dll
+D:\SS13Repo\SS13\BasePacket\bin\Debug\BasePacket.pdb
+D:\SS13Repo\SS13\BasePacket\bin\Debug\Lidgren.Network.dll
+D:\SS13Repo\SS13\BasePacket\obj\Debug\BasePacket.csprojAssemblyReference.cache
+D:\SS13Repo\SS13\BasePacket\obj\Debug\BasePacket.csproj.CoreCompileInputs.cache
+D:\SS13Repo\SS13\BasePacket\obj\Debug\BasePacket.csproj.CopyComplete
+D:\SS13Repo\SS13\BasePacket\obj\Debug\BasePacket.dll
+D:\SS13Repo\SS13\BasePacket\obj\Debug\BasePacket.pdb
